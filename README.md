@@ -1,4 +1,4 @@
-# React-Native-Tips
+# React-Native-And-Expo-Tips
 
 
 ## Common Errors Messages
@@ -26,6 +26,9 @@ this.functionName = this.functionName.bind(this)
 ```
 
 
+## Tools
+
+[Blisk](https://blisk.io/) is a good brower to use for development, particularly if you are developing for IOS on a windows machine with Expo. Having to build your app on a remote build server that has a line on it can take a lot of time. Using Blisk with Expo can allow you to fine the UI before you build it remotely. Blisk is a browser for developers, built on Chromium.
+
+
 ## Helpful Links
-
-
